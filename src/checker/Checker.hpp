@@ -9,6 +9,7 @@
 #ifndef ALX_CHECKER_CHECKER_HPP
 #define ALX_CHECKER_CHECKER_HPP
 
+#include <functional>		// std::function
 #include <iostream>                // std::cout, std::cerr
 #include <filesystem>        // std::filesystem
 #include <string>                // std::string
